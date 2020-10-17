@@ -43,9 +43,9 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 # Everything below this are Site Params
 
 [params]
-  author = "Weru"
+  author = "Binarygod"
   searchPlaceholder = "Search the docs ..."
-  repo = "https://github.com/onweru/compose"
+  repo = "https://github.com/binarygod/prundata.com"
 
   time_format_blog = "Monday, January 02, 2006"
   time_format_default = "January 2, 2006"
@@ -57,4 +57,4 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   [params.source]
     name = "GitHub"
     icon = "github.svg"
-    url = "https://github.com/onweru/compose/"
+    url = "https://github.com/binarygod/prundata.com"
